@@ -1,6 +1,6 @@
 # Tutorial: Intro to Data Science
 ## PyConf Hyderabad
-Instructor: [Grishma Jena](gjena.github.io)
+Instructor: [Grishma Jena](https://gjena.github.io)
 
 Time: 7th Dec 2019 09:30 – 11:00
 
