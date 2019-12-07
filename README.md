@@ -23,13 +23,13 @@ Requires installation of packages but you will be able to use Jupyter and run co
 
 ```
 python3 -m pip install jupyter nltk lxml requests matplotlib sklearn
-wikipedia genism wordcloud --user
+wikipedia gensim wordcloud --user
 ```
 
   * Python 2: 
 ```
 python -m pip install jupyter nltk lxml requests matplotlib sklearn
-wikipedia genism wordcloud --user
+wikipedia gensim wordcloud --user
 ```
 If you face problems installing NLTK, take a look at [this](https://www.nltk.org/install.html) or try with Python 3.
 
