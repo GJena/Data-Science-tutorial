@@ -14,7 +14,7 @@ Requires installation of packages but you will be able to use Jupyter and run co
 
 2. Optional: If you plan on using a virtual environment, ensure virtualenv (Python 2) or venv (Python 3) is installed. Create a virtual environment and activate it. Detailed instructions [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).
 
-3. Install the required packages using pip:
+3. Install the required packages using pip in the terminal:
 
   * Python 3: 
 
