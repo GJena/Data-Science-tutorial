@@ -1,8 +1,5 @@
 # Tutorial: Intro to Data Science
-## PyConf Hyderabad
 Instructor: [Grishma Jena](https://gjena.github.io)
-
-Time: 7th Dec 2019 09:30 – 11:00
 
 Want to perform Data Science but don’t know how to go about it? Have a dataset that you really want to analyze but not sure where to start? This hands-on session teaches how to explore datasets, use Machine Learning algorithms and derive insights from predictive models using popular tools in Python.
 
@@ -48,17 +45,5 @@ Bypasses installation of packages but needs internet to run code on the cloud.
 3. Upload the sample notebook ‘Introduction to Data Science - PyConf Hyderabad 2019 test’ in Colab and open it. Execute the 
 code by clicking on Runtime -> Run all.
 
-__Tentative schedule__
-
-| Timing      | Topic |
-| ------------- |:-------------:|
-| 09:30 – 09:40 | Introduction and motivation|
-| 09:40 – 09:50 | Exploring tools and packages (Jupyter/Colab, numpy, pandas, matplotlib)|
-| 09:50 – 10:00 | Understanding Data Science pipeline using a simple example|
-| 10:00 – 10:20 | Classification: predicting cancer|
-| 10:20 – 10:40 | Regression: predicting housing prices|
-| 10:40 – 10:55 | Clustering: topic modelling|
-| 10:55 – 11:00 | Conclusion|
-
-Feel free to contact me over Slack in case of any queries.
+Feel free to contact me in case of any queries.
 
