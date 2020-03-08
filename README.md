@@ -3,7 +3,7 @@ Instructor: [Grishma Jena](https://gjena.github.io)
 
 Want to perform Data Science but don’t know how to go about it? Have a dataset that you really want to analyze but not sure where to start? This hands-on session teaches how to explore datasets, use Machine Learning algorithms and derive insights from predictive models using popular tools in Python.
 
-We will be using Jupyter to execute Python code for the purpose of this Data Science tutorial. It is highly recommended to use Python 3 as Python 2 will be sunset on January 1, 2020. A virtual environment can be used to manage and isolate the packages for our project. Please follow these instructions to have all the dependencies ready before the tutorial as that will enable us to hit the ground running.
+We will be using Jupyter to execute Python code for the purpose of this Data Science tutorial. It is highly recommended to use Python 3 as Python 2 ~~will be~~ has been sunset on January 1, 2020. A virtual environment can be used to manage and isolate the packages for our project. Please follow these instructions to have all the dependencies ready before the tutorial as that will enable us to hit the ground running.
 
 __Pre-requisites__
 
