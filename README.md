@@ -19,7 +19,7 @@ Requires installation of packages but you will be able to use Jupyter and run co
   * Python 3: 
 
 ```
-python3 -m pip install jupyter nltk lxml requests matplotlib sklearn
+python3 -m pip install jupyter numpy pandas nltk lxml requests matplotlib sklearn
 wikipedia gensim wordcloud --user
 ```
 
