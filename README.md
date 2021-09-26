@@ -10,7 +10,7 @@ __Pre-requisites__
 *Option A : Using Jupyter on your local machine*
 
 Requires installation of packages but you will be able to use Jupyter and run code offline.
-1. Ensure that pip is installed and upgrade it. Pip should already be available if you are using Python 2 >= 2.7.9 or Python 3 >= 3.7 downloaded from python.org. For further installation instructions check [this](https://pip.pypa.io/en/stable/installing/).
+1. Ensure that pip is installed and upgrade it. Pip should already be available if you are using Python 2 >= 2.7.9 or Python 3 >= 3.4 downloaded from python.org. For further installation instructions check [this](https://pip.pypa.io/en/stable/installing/).
 
 2. Optional: If you plan on using a virtual environment, ensure virtualenv (Python 2) or venv (Python 3) is installed. Create a virtual environment and activate it. Detailed instructions [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).
 
