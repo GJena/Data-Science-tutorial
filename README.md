@@ -23,11 +23,6 @@ python3 -m pip install jupyter nltk lxml requests matplotlib sklearn
 wikipedia gensim wordcloud --user
 ```
 
-  * Python 2: 
-```
-python -m pip install jupyter nltk lxml requests matplotlib sklearn
-wikipedia gensim wordcloud --user
-```
 If you face problems installing NLTK, take a look at [this](https://www.nltk.org/install.html).
 
 4. Open a Jupyter notebook with jupyter notebook in your terminal. This opens in your browser at default port 8888.
