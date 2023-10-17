@@ -17,7 +17,7 @@ Requires installation of packages but you will be able to use Jupyter and run co
 3. Install the required packages using pip in the terminal:
 
 ```
-python3 -m pip install jupyter numpy pandas nltk lxml requests matplotlib sklearn
+python3 -m pip install jupyter numpy pandas nltk lxml requests matplotlib sklearn graphviz
 wikipedia gensim wordcloud --user
 ```
 
